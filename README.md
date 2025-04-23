@@ -85,7 +85,7 @@ The website is fully responsive and works on all devices:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git https://github.com/mdsajalali/cloud-core.git
+git clone https://github.com/mdsajalali/cloud-core.git
 cd cloud-core
 ```
 
