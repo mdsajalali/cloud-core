@@ -1,6 +1,6 @@
 # Cloud Core E-commerce Website
 
-![Cloud Core Homepage](https://i.ibb.co.com/DDdCW0rH/homepage.png)
+![Cloud Core Homepage](/public/homepage.png)
 
 A responsive e-commerce website built with Next.js and Tailwind CSS for a clothing brand. This project demonstrates modern web development practices with a focus on performance, responsiveness, and user experience.
 
@@ -19,37 +19,37 @@ A responsive e-commerce website built with Next.js and Tailwind CSS for a clothi
 
 ### Home Page
 
-![Home Page](https://i.ibb.co.com/DDdCW0rH/homepage.png)
+![Home Page](/public/homepage.png)
 
 The landing page showcases featured products and a hero section.
 
 ### Products Page
 
-![Products Page](https://i.ibb.co.com/hFR4Qb4K/products.png)
+![Products Page](/public/products-page.png)
 
 Browse all products with search and sort functionality.
 
 ### Product Details Page
 
-![Product Details](https://i.ibb.co.com/kPZ8VCg/product-details.png)
+![Product Details](/public/product-details.png)
 
 View detailed information about a specific product with the option to add to cart or buy now.
 
 ### Cart Page
 
-![Cart Page](https://i.ibb.co.com/tM9nrS6t/cart-page.png)
+![Cart Page](/public/cart-page.png)
 
 Review cart items, adjust quantities, and proceed to checkout.
 
 ### About Page
 
-![About Page](https://i.ibb.co.com/b5ZQS8pD/about-page.png)
+![About Page](/public/about-page.png)
 
 Information about the company and its mission.
 
 ### Contact Page
 
-![Contact Page](https://i.ibb.co.com/Q4p35Yq/contact-page.png)
+![Contact Page](/public/cart-page.png)
 
 Contact form and company information.
 
